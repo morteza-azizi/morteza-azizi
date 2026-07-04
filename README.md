@@ -39,7 +39,11 @@ This repository is organized as a small knowledge base.
 
 | Section | Description |
 |----------|-------------|
+| Section | Description |
+|----------|-------------|
 | 📖 [About](about/) | The architect behind the decisions |
+
+<!--
 | 🏛️ [Architecture](architecture/) | Principles, ADRs and architectural philosophy |
 | 🚀 [Projects](projects/) | Selected projects worth exploring |
 | 📚 [Learning](learning/) | What I'm currently learning |
@@ -48,6 +52,7 @@ This repository is organized as a small knowledge base.
 | 🍷 [Wine](wine/) | Wine Inquiry and why I built it |
 | 🌍 [Travel](travel/) | Places, cultures and lessons learned |
 | ✍️ [Writing](writing/) | Articles, essays and notes |
+-->
 
 ---
 
