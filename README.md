@@ -33,5 +33,3 @@ If you'd like to know more about my background and how I approach architecture, 
 ---
 
 > "Architecture isn't the goal. Helping people make better decisions is."
-
-Thanks for stopping by.
