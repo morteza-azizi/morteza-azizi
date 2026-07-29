@@ -1,12 +1,14 @@
 # Hi, I'm Morteza 👋
 
-I'm a **Software Architect** specializing in **cloud-native distributed systems** and **integration architecture**.
+Software Architect specializing in cloud-native systems, distributed systems, integration architecture, and practical software engineering.
 
-I enjoy helping teams solve business problems through thoughtful software design, practical engineering, and continuous learning.
+18+ years of experience designing and building software systems. Azure is my primary platform today, but my focus has always been on architecture, engineering, and building software that stands the test of time.
 
-Most of my work today is on **Microsoft Azure**, designing systems that are understandable, evolvable, and enjoyable to work on. While Azure is my primary platform today, my focus has always been on building better software rather than chasing specific technologies.
+I help teams turn business problems into systems that are simple to understand, safe to change, and easy to own.
 
-This repository is my engineering notebook. It's where I document what I'm learning, what I'm building, and how my thinking evolves over time.
+This profile captures what I'm building, learning, and sharing as I continue to grow as a software architect.
+
+If you'd like to know more about my background and how I approach architecture, visit my [About page](https://www.mortezaazizi.com/about/).
 
 ---
 
@@ -21,75 +23,15 @@ This repository is my engineering notebook. It's where I document what I'm learn
 
 ---
 
-## Currently
+## Focus Areas
 
-These are the areas I'm actively investing in.
-
-- ☁️ Expanding beyond Azure with AWS and Terraform
-- 🏗️ Building practical architecture playbooks and hands-on labs
-- 🤖 Exploring AI Engineering and modern software development
-- 🇳🇱 Improving my Dutch
-- 🍷 Growing Wine Inquiry
+- Cloud-native and distributed systems architecture
+- Integration architecture and event-driven design
+- API and platform design for systems built to last
+- Practical software architecture through hands-on engineering
 
 ---
 
-## Explore
-
-This repository is organized as a small knowledge base.
-
-| Section | Description |
-|----------|-------------|
-| Section | Description |
-|----------|-------------|
-| 📖 [About](about/) | The architect behind the decisions |
-
-<!--
-| 🏛️ [Architecture](architecture/) | Principles, ADRs and architectural philosophy |
-| 🚀 [Projects](projects/) | Selected projects worth exploring |
-| 📚 [Learning](learning/) | What I'm currently learning |
-| 📅 [Now](now/) | What I'm focused on today |
-| 📖 [Books](books/) | Books that shaped how I think |
-| 🍷 [Wine](wine/) | Wine Inquiry and why I built it |
-| 🌍 [Travel](travel/) | Places, cultures and lessons learned |
-| ✍️ [Writing](writing/) | Articles, essays and notes |
--->
-
----
-
-## Featured Projects
-
-### 🏛️ Architecture Playbook
-
-Patterns, Architecture Decision Records (ADRs), architecture notes, and practical guidance collected throughout my journey.
-
----
-
-### ☁️ Azure Solutions Architecture
-
-Reference implementations and cloud-native architecture examples built around real-world scenarios.
-
----
-
-### 🍷 Wine Inquiry
-
-A personal project that started with wine but gradually became a journey through geography, culture, history, and technology.
-
----
-
-## Outside Software
-
-When I'm away from the keyboard, you'll probably find me:
-
-- 🍷 Exploring wine regions and growing Wine Inquiry
-- 🌍 Travelling with my wife and daughter
-- 🥩 Cooking steaks and homemade gravies
-- 🍞 Learning to bake better bread
-- 🎼 Playing Persian classical music on the santur
-- 🎷 Listening to blues and jazz — especially B.B. King, Elmore James, J.J. Cale, and Miles Davis
-- 🐈 Being supervised by our cat
-
----
-
-> **"Architecture isn't the goal. Helping people make better decisions is."**
+> "Architecture isn't the goal. Helping people make better decisions is."
 
 Thanks for stopping by.
