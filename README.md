@@ -2,11 +2,9 @@
 
 Software Architect specializing in cloud-native systems, distributed systems, integration architecture, and practical software engineering.
 
-18+ years of experience designing and building software systems. Azure is my primary platform today, but my focus has always been on architecture, engineering, and building software that stands the test of time.
+18+ years designing and building software systems. Azure is my primary platform. I help teams turn business problems into systems that are simple to understand, safe to change, and easy to own.
 
-I help teams turn business problems into systems that are simple to understand, safe to change, and easy to own.
-
-This profile captures what I'm building, learning, and sharing as I continue to grow as a software architect.
+This profile is where I share that work — the systems I build, the engineering behind them, and the decisions that shape them.
 
 If you'd like to know more about my background and how I approach architecture, visit my [About page](https://www.mortezaazizi.com/about/).
 
