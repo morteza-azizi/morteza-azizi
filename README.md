@@ -37,7 +37,6 @@ The blog is where I explain the architectural reasoning, trade-offs, experiments
 For practical implementation examples, take a look at:
 
 - **[Wire Tap Middleware](https://github.com/morteza-azizi/wire-tap-middleware)** — Azure Service Bus middleware and messaging
-- **[Durable Functions .NET](https://github.com/morteza-azizi/durable-functions-dotnet)** — orchestration, fan-out/fan-in, idempotency, and distributed processing
 
 ---
 
