@@ -1,6 +1,6 @@
 # Hi, I'm Morteza 👋
 
-Software Architect specializing in cloud-native systems, distributed systems, integration architecture, and practical software engineering.
+Software Architect specializing in cloud-native systems, distributed systems, integration architecture, AI architecture, and practical software engineering.
 
 18+ years designing and building software systems. Azure is my primary platform. I help teams turn business problems into systems that are simple to understand, safe to change, and easy to own.
 
@@ -25,6 +25,12 @@ Practical Azure integration architecture through working .NET examples, messagin
 Deeper explorations of architecture patterns and distributed systems — building the solution, testing it, breaking it, documenting the decisions, and explaining what I learned.
 
 → **[Architecture Through Engineering](https://github.com/morteza-azizi/architecture-through-engineering-rag)**
+
+### 🤖 AI Architecture
+
+Hands-on work on how agents, tools, and enterprise systems fit together. The current experiments are the [Microsoft Foundry](https://www.mortezaazizi.com/series/microsoft-foundry/) articles.
+
+→ **[Microsoft Foundry Architecture](https://github.com/morteza-azizi/microsoft-foundry-architecture)**
 
 ### ✍️ Technical Writing
 
@@ -55,6 +61,7 @@ For practical implementation examples, take a look at:
 
 - Cloud-native and distributed systems architecture
 - Integration architecture and event-driven design
+- AI architecture for agents in enterprise systems
 - API and platform design for systems built to last
 - Practical software architecture through hands-on engineering
 
